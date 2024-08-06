@@ -1,0 +1,16 @@
+{
+    "name": "EddyLib.Util.Editor",
+    "rootNamespace": "EddyLib.Util.Editor",
+    "references": [
+        "GUID:cafe66550e3f1d748bddb1819e3f5a62"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
